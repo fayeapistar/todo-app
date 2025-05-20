@@ -1,17 +1,18 @@
-# React To-Do App
+# Laravel To-Do App
 
-A simple and intuitive To-Do List web application built using **React**. This project helps users manage their daily tasks efficiently by allowing them to add, complete, and remove tasks with ease.
+A simple and clean To-Do List web application built using **Laravel** with **Tailwind CSS** for styling. This app helps users manage tasks efficiently by adding, completing, and deleting to-do items with a modern, responsive UI.
 
 ## Features
 
-- Add new tasks
-- Mark tasks as complete/incomplete
-- Delete tasks
-- Responsive and user-friendly UI
-- Persistent data using local storage (optional, if implemented)
-- Clean and modern design
+- Add, complete, and delete tasks
+- Clean, responsive UI powered by Tailwind CSS
+- Server-side task management with Laravel MVC
+- Optional user authentication support (if implemented)
+- Easy to extend and customize
 
 ## Built With
 
-- [React](https://reactjs.org/) – JavaScript library for building user interfaces
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – For styling components
+- [Laravel](https://laravel.com/) – PHP framework
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for styling
+- [Blade](https://laravel.com/docs/blade) – Laravel’s templating engine
+- [MySQL](https://www.mysql.com/) or other database for persistence
